@@ -1,6 +1,3 @@
-npx shadcn-ui@latest init
-npm install lucide-react
-npx shadcn-ui@latest add button input textarea card
+# To run front end
+npm start 
 
-npx init tailwindcss -p
-npm i
