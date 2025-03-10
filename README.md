@@ -41,8 +41,7 @@ User Uploads Document(s) ───► Backend (FastAPI) ───► Document Pa
 # Step-by-step setup instructions
 
 ## Clone this repo
-git clone <repo_link>
-cd <repo_folder>
+git clone (https://github.com/b4tan/resume-evaluator-optimizer.git)
 
 ## To run backend server
 
