@@ -69,11 +69,11 @@ npm run start
 Once both the frontend and backend servers are running, navigate to the hosted web application. If running locally, visit http://localhost:3000/ in your browser. From there, you can upload resumes and a job description to process and analyze them.
 
 ## Resources:
-[link] https://python.langchain.com/docs/concepts/prompt_templates/
-[link] https://python.langchain.com/v0.1/docs/modules/chains/
-[link] https://medium.com/towards-agi/how-to-use-gemini-with-langchain-a-step-by-step-guide-6f79c229505e
-[link] https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/
-[link] https://pypi.org/project/sentence-transformers/
-[link] https://medium.com/@sandyjtech/creating-a-database-using-python-and-sqlalchemy-422b7ba39d7e
-[link] https://sakilansari4.medium.com/unleashing-the-power-of-sentence-transformers-revolutionising-semantic-search-and-sentence-edc22c8180ed
+https://python.langchain.com/docs/concepts/prompt_templates/
+https://python.langchain.com/v0.1/docs/modules/chains/
+https://medium.com/towards-agi/how-to-use-gemini-with-langchain-a-step-by-step-guide-6f79c229505e
+https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/
+https://pypi.org/project/sentence-transformers/
+https://medium.com/@sandyjtech/creating-a-database-using-python-and-sqlalchemy-422b7ba39d7e
+https://sakilansari4.medium.com/unleashing-the-power-of-sentence-transformers-revolutionising-semantic-search-and-sentence-edc22c8180ed
 
