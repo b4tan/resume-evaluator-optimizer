@@ -11,7 +11,7 @@ This tool uses an agentic approach to evaluate and optimize resumes based on a j
 6. Scoring & Ranking: Hybrid ranking system combining cosine similarity and LLM-generated scores
 
 # Architechture diagram
-
+```
 User Uploads Document(s) ───► Backend (FastAPI) ───► Document Parsing  
     │                                │                      │  
     │                                │                      ├─► PDF/DOCX Processing  
@@ -36,7 +36,7 @@ User Uploads Document(s) ───► Backend (FastAPI) ───► Document Pa
     │           ├─► User Interaction (Download, Navigate)  
     │  
     └─► User Downloads Optimized Document  
-
+```
 
 # Step-by-step setup instructions
 
